@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\LabTask11\bin\Debug\LabTask11.exe.config
+C:\Users\Asus\source\repos\LabTask11\bin\Debug\LabTask11.exe
+C:\Users\Asus\source\repos\LabTask11\bin\Debug\LabTask11.pdb
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.Form1.resources
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.Properties.Resources.resources
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.exe
+C:\Users\Asus\source\repos\LabTask11\obj\Debug\LabTask11.pdb
